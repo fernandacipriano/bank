@@ -5,7 +5,7 @@ Movimentação de conta bancária
 ## Instalação
 
 ```
-git clone 
+git clone https://github.com/fernandacipriano/bank.git
 
 cd bank
 
